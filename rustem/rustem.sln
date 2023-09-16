@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "rustem", "rustem\rustem.pyproj", "{ED8CBCC1-0403-4E1E-AC66-6D0C63545D08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8CBCC1-0403-4E1E-AC66-6D0C63545D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8CBCC1-0403-4E1E-AC66-6D0C63545D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C80E069-79F6-4ABC-B733-6A2A1E310F50}
+	EndGlobalSection
+EndGlobal
